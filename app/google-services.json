@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121221868044",
+    "firebase_url": "https://bmwcatalog-3a982.firebaseio.com",
+    "project_id": "bmwcatalog-3a982",
+    "storage_bucket": "bmwcatalog-3a982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121221868044:android:cb0c635f9a03a641",
+        "android_client_info": {
+          "package_name": "com.example.mike.bmwcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121221868044-pb7ntv9kn8vdqm84lk871u8pjj28cqqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mike.bmwcatalog",
+            "certificate_hash": "04a042e379feaddc87814d559df1b64d87b79a78"
+          }
+        },
+        {
+          "client_id": "121221868044-an3rgutmhsp5dv1dbq9o3hutlqp94732.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXV53KbcMsJUDox5-YZXs2biJgz-cKxlE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121221868044-an3rgutmhsp5dv1dbq9o3hutlqp94732.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
